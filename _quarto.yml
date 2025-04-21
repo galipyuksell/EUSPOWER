@@ -5,8 +5,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
+      - text: Proejct Summary
+        href: project summary.qmd
       - text: Team
         href: team.qmd
       - text: Activities
