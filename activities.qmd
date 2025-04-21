@@ -1,0 +1,21 @@
+---
+title: "Activities"
+---
+
+# Recent Activities From GDES-IPE
+
+| Date | Location | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
+|---------------|---------------|---------------|---------------|---------------|
+| 25.02.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Kick-off Meeting | Project Team | \- |
+| 05.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1 | Prof. Ali Arı | [Course Info](Lecture/Lecture1.html#/title-slide) |
+| 06.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 1 | Prof. Ali Arı | [Course Info](Lecture/Seminar1.html#/section) |
+| 12.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2 | Prof. Ali Arı | [Course Info](Lecture/Lecture2.html#/section) |
+| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2 | Prof. Ali Arı | [Course Info](Lecture/Seminar2.html#/title-slide) |
+| 18.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 4 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
+| 19.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 4 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar4.html#/title-slide) |
+| 25.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 5 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/lecture5.html#/title-slide) |
+| 26.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 5 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar5.html#/title-slide) |
+| 08.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 6 | Prof. Ali Arı | [Course Info](Lecture/Lecture6.html#/title-slide) |
+| 09.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 6 | Prof. Ali Arı | [Course Info](Lecture/Seminar6.html#/title-slide) |
+| 22.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 7 | Prof. Ali Arı | [Course Info](Lecture/Lecture7.html#/title-slide) |
+| 23.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 7 | Prof. Ali Arı | [Course Info](Lecture/Seminar7.html#/title-slide) |
