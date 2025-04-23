@@ -2,9 +2,8 @@
 title: "Contact"
 ---
 
-
 Feel free to reach out via the following methods.
 
-- E-mail: ali.erken@marmara.edu.tr
+-   E-mail: ali.erken\@marmara.edu.tr
 
-- Address: https://avesis.marmara.edu.tr/ali.erken
+-   Address: https://avesis.marmara.edu.tr/ali.erken
