@@ -7,8 +7,8 @@ website:
         href: index.qmd
       - text: Proejct Summary
         href: project summary.qmd
-      - text: Project Team
-        href: project teams and staff.qmd
+      - text: Team
+        href: team.qmd
       - text: Activities
         href: activities.qmd
       - text: Deliverables
