@@ -5,21 +5,31 @@ title: "Activities"
 # Recent Activities From EUSPOWER
 
 | Date | Location | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
-|----|----|----|----|----|
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Kick-off Meeting | Project Team | \- |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1 | Assoc. Prof. Hakan Mehmetcik | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2 | Assoc. Prof. Selin Bölme | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 3 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 4 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 5 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 6 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 7 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 8 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 9 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 10 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 11 | Assoc. Prof. Emirhan Göral | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 12 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 13 | Prof. Ali Erken | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | lecture 14 | Assoc. Prof. Nuri Tınaz | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 15 | Prof. Vugar İmanbeyli | Course Info |
-|  | Marmara University, Recep Tayyip Erdoğan Külliyesi |  |  |  |
+|---------------|---------------|---------------|---------------|---------------|
+|  | Marmara University, Goztepe Campus | Kick-off Meeting | Project Team | \- |
+| 23.10.2024 | Marmara University, Goztepe Campus | Seminar 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
+| 11.12.2024 | Marmara University, Goztepe Campus | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Lecture2.html#/title-slide) |
+| 21.11.2024 | Marmara University, Goztepe Campus | Seminar 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar3.html#/title-slide) |
+| 24.12.2024 | Marmara University, Goztepe Campus | Seminar 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture4.html#/1) |
+| 31.12.2024 | Marmara University, Goztepe Campus | Seminar 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture5.html#/section) |
+| 07.01.2025 | Marmara University, Goztepe Campus | Seminar 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture6.html#/title-slide) |
+| 14.01.2025 | Marmara University, Goztepe Campus | Seminar 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar7.html#/title-slide) |
+| 30.01.2025 | Marmara University, Goztepe Campus | Seminar 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar8.html#/title-slide) |
+| 18.02.2025 | Marmara University, Goztepe Campus | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/section-1) |
+| 25.02.2025 | Marmara University, Goztepe Campus | Seminar 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
+| 28.02.2025 | Marmara University, Goztepe Campus | Seminar 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
+| 18.03.2025 | Marmara University, Goztepe Campus | Seminar 12 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture12.html#/title-slide) |
+| 25.03.2025 | Marmara University, Goztepe Campus | Seminar 13 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar13.html#/section) |
+|  | Marmara University, Goztepe Campus | Seminar 14 | Assoc. Prof. Nuri Tınaz | Course Info |
+| 11.03.2025 | Marmara University, Goztepe Campus | Seminar 15 | Prof. Vugar İmanbeyli | [Course Info](Lecture/Lecture12.html#/title-slide) |
+| 07.03.2025 | Marmara University, Başıbüyük Campus | Lecture 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
+| 14.03.2025 | Marmara University, Başıbüyük Campus | Lecture 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Lecture2.html#/title-slide) |
+| 21.03.2025 | Marmara University, Başıbüyük Campus | Lecture 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture3.html#/title-slide) |
+| 28.03.2025 | Marmara University, Başıbüyük Campus | Lecture 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture4.html#/title-slide) |
+| 11.04.2025 | Marmara University, Başıbüyük Campus | Lecture 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture5.html#/title-slide) |
+| 18.04.2025 | Marmara University, Başıbüyük Campus | Lecture 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture6.html#/title-slide) |
+| 02.05.2025 | Marmara University, Başıbüyük Campus | Lecture 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture7.html#/title-slide) |
+| 09.05.2025 | Marmara University, Başıbüyük Campus | Lecture 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture8.html#/title-slide) |
+| 16.05.2025 | Marmara University, Başıbüyük Campus | Lecture 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/title-slide) |
+| 23.05.2025 | Marmara University, Başıbüyük Campus | Lecture 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
+| 30.05.2025 | Marmara University, Başıbüyük Campus | Lecture 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
