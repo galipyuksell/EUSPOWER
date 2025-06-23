@@ -1,0 +1,9 @@
+---
+title: "The EU's Soft Power Tools and Enlargement: Balkans and Turkey"
+subtitle: "EU Energy Politics: Turkey and Balkans"
+date: 05.30.2025
+format: revealjs
+editor: visual
+---
+
+# ![](images/week%2011-01.png)
