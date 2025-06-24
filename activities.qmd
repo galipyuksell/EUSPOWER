@@ -4,32 +4,32 @@ title: "Activities"
 
 # Recent Activities From EUSPOWER
 
-| Date | Location | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
-|---------------|---------------|---------------|---------------|---------------|
-|  | Marmara University, Goztepe Campus | Kick-off Meeting | Project Team | \- |
-| 23.10.2024 | Marmara University, Goztepe Campus | Seminar 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar1.html#/title-slide) |
-| 11.12.2024 | Marmara University, Goztepe Campus | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Seminar2.html#/title-slide) |
-| 21.11.2024 | Marmara University, Goztepe Campus | Seminar 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar3.html#/title-slide) |
-| 24.12.2024 | Marmara University, Goztepe Campus | Seminar 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar4.html#/title-slide) |
-| 31.12.2024 | Marmara University, Goztepe Campus | Seminar 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar5.html#/title-slide) |
-| 07.01.2025 | Marmara University, Goztepe Campus | Seminar 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar6.html#/title-slide) |
-| 14.01.2025 | Marmara University, Goztepe Campus | Seminar 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar7.html#/title-slide) |
-| 30.01.2025 | Marmara University, Goztepe Campus | Seminar 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar8.html#/title-slide) |
-| 18.02.2025 | Marmara University, Goztepe Campus | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar9.html#/title-slide) |
-| 25.02.2025 | Marmara University, Goztepe Campus | Seminar 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar10.html#/title-slide) |
-| 28.02.2025 | Marmara University, Goztepe Campus | Seminar 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Seminar11.html#/title-slide) |
-| 18.03.2025 | Marmara University, Goztepe Campus | Seminar 12 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar12.html#/title-slide) |
-| 25.03.2025 | Marmara University, Goztepe Campus | Seminar 13 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar13.html#/title-slide) |
-|  | Marmara University, Goztepe Campus | Seminar 14 | Assoc. Prof. Nuri Tınaz | Course Info |
-| 11.03.2025 | Marmara University, Goztepe Campus | Seminar 15 | Prof. Vugar İmanbeyli | [Course Info](Lecture/Seminar15.html#/title-slide) |
-| 07.03.2025 | Marmara University, Başıbüyük Campus | Lecture 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
-| 14.03.2025 | Marmara University, Başıbüyük Campus | Lecture 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Lecture2.html#/title-slide) |
-| 21.03.2025 | Marmara University, Başıbüyük Campus | Lecture 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture3.html#/title-slide) |
-| 28.03.2025 | Marmara University, Başıbüyük Campus | Lecture 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture4.html#/title-slide) |
-| 11.04.2025 | Marmara University, Başıbüyük Campus | Lecture 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture5.html#/title-slide) |
-| 18.04.2025 | Marmara University, Başıbüyük Campus | Lecture 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture6.html#/title-slide) |
-| 02.05.2025 | Marmara University, Başıbüyük Campus | Lecture 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture7.html#/title-slide) |
-| 09.05.2025 | Marmara University, Başıbüyük Campus | Lecture 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture8.html#/title-slide) |
-| 16.05.2025 | Marmara University, Başıbüyük Campus | Lecture 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/title-slide) |
-| 23.05.2025 | Marmara University, Başıbüyük Campus | Lecture 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
-| 30.05.2025 | Marmara University, Başıbüyük Campus | Lecture 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
+| Date | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
+|---------------|---------------|---------------|---------------|
+|  | Kick-off Meeting | Project Team | \- |
+| 23.10.2024 | Seminar 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar1.html#/title-slide) |
+| 11.12.2024 | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Seminar2.html#/title-slide) |
+| 21.11.2024 | Seminar 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar3.html#/title-slide) |
+| 24.12.2024 | Seminar 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar4.html#/title-slide) |
+| 31.12.2024 | Seminar 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar5.html#/title-slide) |
+| 07.01.2025 | Seminar 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar6.html#/title-slide) |
+| 14.01.2025 | Seminar 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar7.html#/title-slide) |
+| 30.01.2025 | Seminar 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar8.html#/title-slide) |
+| 18.02.2025 | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar9.html#/title-slide) |
+| 25.02.2025 | Seminar 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar10.html#/title-slide) |
+| 28.02.2025 | Seminar 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Seminar11.html#/title-slide) |
+| 18.03.2025 | Seminar 12 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar12.html#/title-slide) |
+| 25.03.2025 | Seminar 13 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar13.html#/title-slide) |
+|  | Seminar 14 | Assoc. Prof. Nuri Tınaz | Course Info |
+| 11.03.2025 | Seminar 15 | Prof. Vugar İmanbeyli | [Course Info](Lecture/Seminar15.html#/title-slide) |
+| 07.03.2025 | Lecture 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
+| 14.03.2025 | Lecture 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Lecture2.html#/title-slide) |
+| 21.03.2025 | Lecture 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture3.html#/title-slide) |
+| 28.03.2025 | Lecture 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture4.html#/title-slide) |
+| 11.04.2025 | Lecture 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture5.html#/title-slide) |
+| 18.04.2025 | Lecture 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture6.html#/title-slide) |
+| 02.05.2025 | Lecture 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture7.html#/title-slide) |
+| 09.05.2025 | Lecture 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture8.html#/title-slide) |
+| 16.05.2025 | Lecture 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/title-slide) |
+| 23.05.2025 | Lecture 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
+| 30.05.2025 | Lecture 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
