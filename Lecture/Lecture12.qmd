@@ -1,0 +1,9 @@
+---
+title: "The EU's Soft Power Tools and Enlargement: Balkans and Turkey"
+subtitle: "Promoting EU Values within Europe: Migrants from Balkans and Turkey"
+date: 06.13.2025
+format: revealjs
+editor: visual
+---
+
+# ![](images/Build a Library Project.png)
