@@ -11,11 +11,11 @@ title: "Activities"
 | 11.12.2024 | Marmara University, Goztepe Campus | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Seminar2.html#/title-slide) |
 | 21.11.2024 | Marmara University, Goztepe Campus | Seminar 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar3.html#/title-slide) |
 | 24.12.2024 | Marmara University, Goztepe Campus | Seminar 4 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar4.html#/title-slide) |
-| 31.12.2024 | Marmara University, Goztepe Campus | Seminar 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture5.html#/section) |
-| 07.01.2025 | Marmara University, Goztepe Campus | Seminar 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture6.html#/title-slide) |
+| 31.12.2024 | Marmara University, Goztepe Campus | Seminar 5 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar5.html#/title-slide) |
+| 07.01.2025 | Marmara University, Goztepe Campus | Seminar 6 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar6.html#/title-slide) |
 | 14.01.2025 | Marmara University, Goztepe Campus | Seminar 7 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar7.html#/title-slide) |
 | 30.01.2025 | Marmara University, Goztepe Campus | Seminar 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar8.html#/title-slide) |
-| 18.02.2025 | Marmara University, Goztepe Campus | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/section-1) |
+| 18.02.2025 | Marmara University, Goztepe Campus | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar9.html#/title-slide) |
 | 25.02.2025 | Marmara University, Goztepe Campus | Seminar 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
 | 28.02.2025 | Marmara University, Goztepe Campus | Seminar 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
 | 18.03.2025 | Marmara University, Goztepe Campus | Seminar 12 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture12.html#/title-slide) |
