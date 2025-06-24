@@ -18,9 +18,9 @@ title: "Activities"
 | 18.02.2025 | Seminar 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar9.html#/title-slide) |
 | 25.02.2025 | Seminar 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar10.html#/title-slide) |
 | 28.02.2025 | Seminar 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Seminar11.html#/title-slide) |
-| 18.03.2025 | Seminar 12 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar12.html#/title-slide) |
-| 25.03.2025 | Seminar 13 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar13.html#/title-slide) |
-| 11.03.2025 | Seminar 14 | Prof. Vugar İmanbeyli | [Course Info](Lecture/Seminar15.html#/title-slide) |
+| 11.03.2025 | Seminar 12 | Prof. Vugar İmanbeyli | [Course Info](Lecture/Seminar12.html#/title-slide) |
+| 18.03.2025 | Seminar 13 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar13.html#/section) |
+| 25.03.2025 | Seminar 14 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Seminar14.html#/title-slide) |
 | 07.03.2025 | Lecture 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Lecture1.html#/title-slide) |
 | 14.03.2025 | Lecture 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Lecture2.html#/title-slide) |
 | 21.03.2025 | Lecture 3 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture3.html#/title-slide) |
