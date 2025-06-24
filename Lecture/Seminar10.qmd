@@ -7,5 +7,3 @@ editor: visual
 ---
 
 # ![](images/week%2010.png)
-
-# 
