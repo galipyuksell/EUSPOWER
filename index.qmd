@@ -10,6 +10,6 @@ This project is carried out by Marmara University faculty member Prof. Ali Erken
 
 ![](clipboard-2104634892.png){width="376"}
 
-![](WhatsApp%20Image%202025-06-27%20at%206.17.36%20PM.png){width="242"} ![](WhatsApp%20Image%202025-06-27%20at%206.17.58%20PM.png){width="299" height="92"}
+![](WhatsApp%20Image%202025-06-27%20at%206.17.36%20PM.png){width="242"}
 
-![](D_Renkli_KoyuZemin_eng.png){width="136"}
+![](D_Renkli_KoyuZemin_eng.png){fig-align="right" width="150"}
