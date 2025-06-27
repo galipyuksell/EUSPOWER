@@ -5,7 +5,7 @@ title: "Activities"
 # Recent Activities From EUSPOWER
 
 | Date | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
-|---------------|---------------|---------------|---------------|
+|------------------|------------------|------------------|------------------|
 |  | Kick-off Meeting | Project Team | \- |
 | 23.10.2024 | Seminar 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar1.html#/title-slide) |
 | 11.12.2024 | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Seminar2.html#/title-slide) |
@@ -31,6 +31,5 @@ title: "Activities"
 | 09.05.2025 | Lecture 8 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture8.html#/title-slide) |
 | 16.05.2025 | Lecture 9 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture9.html#/title-slide) |
 | 23.05.2025 | Lecture 10 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture10.html#/title-slide) |
-| 30.05.2025 | Lecture 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
-| 10.06.2025 | Lecture 12 |  |  |
-| 13.06.2025 | Lecture 13 | Prof. Nuri Tınaz | [Course Info](Lecture/Lecture12.html#/title-slide) |
+| 03.06.2025 | Lecture 11 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture11.html#/title-slide) |
+| 13.06.2025 | Lecture 12 | Prof. Nuri Tınaz | [Course Info](Lecture/Lecture12.html#/title-slide) |
