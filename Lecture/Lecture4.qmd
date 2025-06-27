@@ -6,4 +6,4 @@ format: revealjs
 editor: visual
 ---
 
-# ![](images/week 4-01.png)
+# ![](images/week%204-01.png){width="495"}
