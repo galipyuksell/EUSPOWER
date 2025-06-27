@@ -6,6 +6,6 @@ format: revealjs
 editor: visual
 ---
 
-![](images/WhatsApp%20Image%202025-05-29%20at%204.28.13%20PM-2.jpeg)
+![](images/WhatsApp%20Image%202025-05-29%20at%204.28.13%20PM-2.jpeg){width="511"}
 
-# ![](images/week%206.png)
+# ![](images/week%206.png){width="495"}
