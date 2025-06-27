@@ -5,7 +5,7 @@ title: "Activities"
 # Recent Activities From EUSPOWER
 
 | Date | Topics | Lecturer | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \| |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 |  | Kick-off Meeting | Project Team | \- |
 | 23.10.2024 | Seminar 1 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar1.html#/title-slide) |
 | 11.12.2024 | Seminar 2 | Assoc. Prof. Selin Bölme | [Course Info](Lecture/Seminar2.html#/title-slide) |
@@ -37,10 +37,6 @@ title: "Activities"
 | 13.06.2025 | Lecture 14 | Prof. Nuri Tınaz | [Course Info](Lecture/Lecture12.html#/title-slide) |
 | 13.06.2025 | Lecture 15 | Assoc. Prof. Ali Erken | [Course Info](Lecture/Lecture15.html#/title-slide) |
 
-![](clipboard-2104634892.png){width="238"}
-
-![](WhatsApp Image 2025-06-27 at 6.17.36 PM.png){width="140"}
-
-![](images/clipboard-4052883223.png){width="158"}
+![](clipboard-2104634892.png){width="238"} ![](WhatsApp%20Image%202025-06-27%20at%206.17.36%20PM.png){width="140"} ![](images/clipboard-4052883223.png){width="158"}
 
 # 
