@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background-color: #003399;
+    background-color: #28a745;
     color: white;
 }
 
@@ -19,5 +19,5 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #0055cc;
+    background-color: #218838;
 }
