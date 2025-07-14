@@ -6,4 +6,4 @@ format: revealjs
 editor: visual
 ---
 
-# ![](images/Build a Library Project-24.png){width="495"}
+# ![](images/Build%20a%20Library%20Project-24.png){width="495"}
