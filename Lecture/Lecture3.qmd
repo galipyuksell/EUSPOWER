@@ -1,9 +1,9 @@
 ---
 title: "The EU's Soft Power Tools and Enlargement: Balkans and Turkey"
-subtitle: "US Soft Power in Turkey and Balkans since 1945"
-date: 03.21.2025
+subtitle: "Soft Power: Theory and Practice"
+date: 03.14.2025
 format: revealjs
 editor: visual
 ---
 
-# ![](images/week%203-01.png){width="495"}
+# ![](images/Build a Library Project-13.png){width="495"}
