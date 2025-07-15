@@ -35,7 +35,7 @@ title: "Activities"
 | 30.05.2025 | Lecture 12 | Prof. Ali Erken | [Course Info](Lecture/Lecture12.html#/title-slide) |
 | 03.06.2025 | Lecture 13 | Assoc. Prof. Emirhan Göral | [Course Info](Lecture/Lecture13.html#/title-slide) |
 | 04.06.2025 | Lecture 14 | Prof. Ali Erken | [Course Info](Lecture/Lecture14.html#/title-slide) |
-| 13.06.2025 | Lecture 15 | Prof. Nuri Tınaz | [Course Info](Lecture15.html#/title-slide) |
+| 13.06.2025 | Lecture 15 | Prof. Nuri Tınaz | [Course Info](Lecture/Lecture15.html#/title-slide) |
 | 13.06.2025 | Lecture 16 | Prof. Ali Erken | [Course Info](Lecture/Lecture16.html#/title-slide) |
 
 ![](clipboard-2104634892.png){width="238"} ![](WhatsApp%20Image%202025-06-27%20at%206.17.36%20PM.png){width="140"} ![](images/clipboard-4052883223.png){width="158"}
